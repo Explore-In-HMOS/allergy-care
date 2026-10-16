@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # Allergy Care
 
 Allergy Care is a lightweight wearable application designed to help users manage allergy-related health conditions through quick daily chekcs, reminders and guided breathing exercises. The app uses a single-page scrollable layout to ensure all features remain accessible on small wearable displays
